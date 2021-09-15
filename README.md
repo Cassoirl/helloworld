@@ -1,5 +1,5 @@
 # helloworld
-MY first codfish
+MY first coding
 
 whats the story just trying to figure waht all this is about
 
